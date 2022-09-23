@@ -1,7 +1,8 @@
 {
   "Session": {
     "title": { "string": [ "Title A", "Title B", "Title C"] },
-    "description": { "loremSentences": { "minLength": 100, "maxLength": 100 } }
+    "description": { "loremSentences": { "minLength": 100, "maxLength": 100 } },
+    "isCompleted": { "boolean": {} }
   },
 
   
