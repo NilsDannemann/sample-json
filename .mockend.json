@@ -1,12 +1,12 @@
 {
   "Post": {
-    "title": { "string": {} },
+    "title": { "loremWord": {} },
     "comments": {
       "hasMany": "Comment"
     }
   },
   "Comment": {
-    "body": { "string": {} },
+    "body": { "loremWord": {} },
     "post": {
       "belongsTo": "Post"
     }
