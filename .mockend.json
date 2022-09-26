@@ -1,6 +1,7 @@
 {
   "Session": {
     "title": { "string": [ "Title A", "Title B", "Title C"] },
+    "cover": { "string": [ "https://dl.intrinsify.de/akademieportal/img/lp-cover-b.jpg", "https://dl.intrinsify.de/akademieportal/img/lp-cover-i.jpg"] },
     "description": { "loremSentences": { "minLength": 100, "maxLength": 100 } },
     "isCompleted": { "boolean": {} }
   }
