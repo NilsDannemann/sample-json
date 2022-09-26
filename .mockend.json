@@ -3,6 +3,7 @@
     "title": { "string": [ "Title A", "Title B", "Title C"] },
     "cover": { "string": [ "https://dl.intrinsify.de/akademieportal/img/lp-cover-b.jpg", "https://dl.intrinsify.de/akademieportal/img/lp-cover-i.jpg"] },
     "description": { "loremSentences": { "minLength": 100, "maxLength": 100 } },
-    "isCompleted": { "boolean": {} }
+    "isCompleted": { "boolean": {} },
+    "available": { "dateTime": { "min": "2023-01-01T00:00:00Z", "max": "2023-12-31T23:59:59Z" } }
   }
 }
